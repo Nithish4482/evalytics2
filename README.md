@@ -1,2 +1,11 @@
-# evalytics2
-EVALYTICS is an intelligent event evaluation platform that enables structured, transparent, and category-based assessment of participants. It provides analytics, performance insights, AI-driven feedback, and automated reports and certificates, helping users track progress and improve skills effectively.
+
+  # Smart Event Evaluation System
+
+  This is a code bundle for Smart Event Evaluation System. The original project is available at https://www.figma.com/design/iPRMLeVuoh6FlZqDagPLeF/Smart-Event-Evaluation-System.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
